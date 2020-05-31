@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+SMALL POTATOES
 Use the left arrow to go back!
